@@ -1,7 +1,7 @@
-±àÒëËµÃ÷£¨ÍÆ¼öÊ¹ÓÃVisual Studio 2013£©
-1.½«rcdll.dll¸´ÖÆµ½Visual Studio 2013°²×°Ä¿Â¼µÄVC\binÄ¿Â¼ÖĞ¡££¨ÕâÊÇÎªÁËÊ¹ÓÃÄÜÔÚvistaÏÂÏÔÊ¾µÄÍ¼±ê£©
-2.´ò¿ªeasyMule_Libs.sln£¬Ö´ĞĞ¡°Éú³É½â¾ö·½°¸¡±¡££¨easyMule_Libs.slnÀïËù°üº¬µÄÊÇeasyMuleËùÒÀÀµµÄ¿âÎÄ¼ş¡££©
-3.´ò¿ªeasyMule.sln±àÒë¼´¿É¡£
+ç¼–è¯‘è¯´æ˜ï¼ˆæ¨èä½¿ç”¨Visual Studio 2013ï¼‰
+1.å°†rcdll.dllå¤åˆ¶åˆ°Visual Studio 2013å®‰è£…ç›®å½•çš„VC\binç›®å½•ä¸­ã€‚ï¼ˆè¿™æ˜¯ä¸ºäº†ä½¿ç”¨èƒ½åœ¨vistaä¸‹æ˜¾ç¤ºçš„å›¾æ ‡ï¼‰
+2.æ‰“å¼€easyMule_Libs.slnï¼Œæ‰§è¡Œâ€œç”Ÿæˆè§£å†³æ–¹æ¡ˆâ€ã€‚ï¼ˆeasyMule_Libs.slné‡Œæ‰€åŒ…å«çš„æ˜¯easyMuleæ‰€ä¾èµ–çš„åº“æ–‡ä»¶ã€‚ï¼‰
+3.æ‰“å¼€easyMule.slnç¼–è¯‘å³å¯ã€‚
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -10,11 +10,15 @@ Compiling instruction (recommend to use Visual Studio 2013)
 2.Open easyMule_Libs.sln and execute 'build solution'.(easyMule_Libs.sln contains libraries which easyMule depends on)
 3.Open easyMule.sln and compile it.
 
-µçÂ¿·şÎñÆ÷ÁĞ±í(eMule server list)£º
+ç”µé©´æœåŠ¡å™¨åˆ—è¡¨(eMule server list)ï¼š
 http://gruk.org/list.php
 ed2k://|server|27.152.28.252|4242|/
 
-Õâ¸öÊÇÎÒÎ¬»¤µÄeasyMule°æ±¾£¬ÓÉÓÚ²»¶ÏµÄĞŞ¸Ä£¬¿ÉÄÜ»áÀëÔ­À´µÄ°æ±¾Ô½À´Ô½Ô¶¡£
+è¿™ä¸ªæ˜¯æˆ‘ç»´æŠ¤çš„easyMuleç‰ˆæœ¬ï¼Œç”±äºä¸æ–­çš„ä¿®æ”¹ï¼Œå¯èƒ½ä¼šç¦»åŸæ¥çš„ç‰ˆæœ¬è¶Šæ¥è¶Šè¿œã€‚
 This is a version of easyMule I maintained, so this version will be farther and farther from the original version.
 
-ÁªÏµ(Contact)£ºballoonwj@qq.com QQ:906106643
+è”ç³»(Contact)ï¼šballoonwj@qq.com QQ:906106643
+
+è¯¦æƒ…å¯å‚è§ï¼šhttp://blog.csdn.net/analogous_love/article/details/74627971
+
+See details at siteï¼š http://blog.csdn.net/analogous_love/article/details/74627971
